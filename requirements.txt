@@ -1,0 +1,8 @@
+requests==2.21.0
+##sqlite3
+schedule==0.6.0
+##time
+##datetime
+##logging
+##pathlib
+python-dotenv==0.15.0
