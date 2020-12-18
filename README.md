@@ -1,5 +1,6 @@
 Pizdos 24/7 chat bot for telegram. Inspired by [vid](https://youtu.be/TxmXyfQLoN8), [coub](https://coub.com/view/1io9et) and usilenie plus chat.
 
+![image](https://botayhard.space/peezdos.jpg)
 
 You can run your own ;)
 0. clone project and cd peezdosbot
