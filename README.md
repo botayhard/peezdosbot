@@ -3,6 +3,7 @@ Pizdos 24/7 chat bot for telegram. Inspired by [vid](https://youtu.be/TxmXyfQLoN
 ![image](https://botayhard.space/peezdos.jpg)
 
 You can run your own ;)
+
 0. clone project and cd peezdosbot
 1. make own bot from BotFather
 2. take token to .env (like .env.example)
